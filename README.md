@@ -2,10 +2,10 @@
 - Stroke is a severe cerebrovascular disease caused by an interruption of blood flow from and to the brain. As a direct consequence of this interruption, the brain is not able to receive oxygen and nutrients for its correct functioning. The other way around, the brain is not able to drain and expel through blood vessels all of its waste, like dead cells. In a question of minutes, the brain is  in a critical condition as brain cells will imminently begin to die. 
 - The American Stroke Association indicates that stroke is the fifth cause of death and disability in the United States. For this reason, stroke is considered a severe disease and has been the subject of extensive research, not only in the medical field but also in data science and machine learning studies. 
 
-## Skills used  
-- Various String function used in the Data Cleaning process.
-- Use various graphs/charts/tables for exploratory data analysis.
-- Understanding of bagging and boosting technique.
+##  Tools & Technologies Used
+`Python` . `Pandas` · `Numpy` · `Matplotlib` · `Seaborn` · `pyplot`· `pylab` · `rcParams` · `sklearn` · `model_selection` · `train_test_split`· `preprocessing` · `StandardScaler` · `statsmodels` · `api` · `metrics`· `linear_model` · `LogisticRegression` · `confusion_matrix` · `classification_report` · `cohen_kappa_score`· `roc_curve` . `accuracy_score` · `roc_auc_score` · `f1_score` · `tree` · `DecisionTreeClassifier`· `model_selection` · `GridSearchCV` · `RandomForestClassifier` · `AdaBoostClassifier` · `GradientBoostingClassifier`· 
+`xgboost` · `XGBClassifier` · `stats` · `outliers_influence` · `variance_inflation_factor`· `neighbors` · `KNeighborsClassifier` · `naive_bayes` · `GaussianNB` 
+
 
 ## Dataset Description 
 **Dataset : HealthCare dataset stroke data** 
@@ -79,6 +79,11 @@ Evaluate the models using appropriate evaluation metrics.
 - Proper Cleaning of data will help us to get the more accurate result.
 - Data Visualization is important to get insights of data.
 - Used different algorithm and check accuracy for each.
+
+## Skills used  
+- Various String function used in the Data Cleaning process.
+- Use various graphs/charts/tables for exploratory data analysis.
+- Understanding of bagging and boosting technique.
 
 ## Domain Understanding 
 - Project ‘Stroke Prediction’ was challenging for us as it required detailed Data Analysis skills, knowledge of different visualization techniques, understanding of bagging and boosting algorithm as well as Scikitlearn and Scipy library to achieve the project objective.
