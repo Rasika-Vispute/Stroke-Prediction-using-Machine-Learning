@@ -1,0 +1,2 @@
+# Stroke-Prediction-using-Machine-Learning
+Developed a ML model to predict stroke risk using clinical data. Performed data preprocessing, EDA, feature engineering &amp; model selection to improve accuracy. Applied hypothesis testing for significant var selection &amp; addressed class imbalance using SMOTE. Evaluated models using ROC-AUC, precision, recall, &amp; F1-score to ensure optimal performance
